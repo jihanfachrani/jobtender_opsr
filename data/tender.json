@@ -59,6 +59,13 @@
       "jabatan_sasaran": "MANAGER",
       "level_sasaran": "14",
       "lokasi":"NOT NULL"
+    },
+    {
+      "nik": "NOT NULL",
+      "nama": "NOT NULL",
+      "jabatan_sasaran": "MANAGER",
+      "level_sasaran": "14",
+      "lokasi":"NOT NULL"
     }
   ],
 
