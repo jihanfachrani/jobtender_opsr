@@ -39,9 +39,10 @@ jabatanTable.innerHTML += `
 <td>${index + 1}</td> 
 <td>${j.nik}</td>
 <td>${j.nama}</td>
-<td>${j.jabatan_sasaran}</td>
-<td>${j.level_sasaran}</td>
+<td>${j.jabatan}</td>
 <td>${j.lokasi}</td>
+<td>${j.jabatan_sasaran}</td>
+<td>${j.lokasi_sasaran}</td>
 </tr>
 `
 

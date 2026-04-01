@@ -40,26 +40,134 @@
 
   "peserta": [
     {
-      "nik": "NOT NULL",
-      "nama": "NOT NULL",
-      "jabatan_sasaran": "MANAGER",
-      "level_sasaran": "14",
-      "lokasi":"NOT NULL"
+      "nik": "10013022",
+      "nama": "RUDI WINARNO",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
     },
     {
-      "nik": "NOT NULL",
-      "nama": "NOT NULL",
-      "jabatan_sasaran": "MANAGER",
-      "level_sasaran": "14",
-      "lokasi":"NOT NULL"
+      "nik": "10010235",
+      "nama": "ANDRE BUDI SITUMORANG",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
     },
     {
-      "nik": "NOT NULL",
-      "nama": "NOT NULL",
-      "jabatan_sasaran": "MANAGER",
-      "level_sasaran": "14",
-      "lokasi":"NOT NULL"
+      "nik": "10010159",
+      "nama": "NOSIE PIETRAJAYA",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10011045",
+      "nama": "MOHAMMAD FAHRUDIN",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10083757",
+      "nama": "DODY HERLAMBANG",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10010325",
+      "nama": "ANDRE POLADO",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10083459",
+      "nama": "JOKO NUGROHO IWAN PRASETIO",
+      "jabatan": "ASSISTANT VICE PRESIDENT OF FACILITY AND NETWORK STRATEGY",
+      "lokasi": "KANTOR PUSAT",
+      "jabatan_sasaran": "MANAGER PERENCANAAN DAN EVALUASI KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10010779",
+      "nama": "EKA DONI PRASETYA",
+      "jabatan": "ASSISTANT VICE PRESIDENT OF CENTRALIZED FLIGHT PLAN",
+      "lokasi": "KANTOR PUSAT",
+      "jabatan_sasaran": "MANAGER PERENCANAAN DAN EVALUASI KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10011204",
+      "nama": "MOCHAMAD ALI MUSTOFA",
+      "jabatan": "AERONAUTICAL COMMUNICATION OFFICER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10013840",
+      "nama": "FARID ISMAIL",
+      "jabatan": "AERONAUTICAL COMMUNICATION OFFICER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10010984",
+      "nama": "ANGGA TEGAR PERMANA",
+      "jabatan": "AERONAUTICAL COMMUNICATION OFFICER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10010457",
+      "nama": "DYKHA GAUTAMA",
+      "jabatan": "KEPALA CABANG PEMBANTU",
+      "lokasi": "CABANG PEMBANTU SAMARINDA",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10012317",
+      "nama": "RIDHO ROBBYAN",
+      "jabatan": "KEPALA CABANG PEMBANTU",
+      "lokasi": "CABANG PEMBANTU RENGAT",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10011015",
+      "nama": "RHANDI BUDI PRANATA",
+      "jabatan": "CENTRALIZED FLIGHT PLAN OFFICER",
+      "lokasi": "KANTOR PUSAT",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10011258",
+      "nama": "FAISAL NOOR WAHYU WIJAYANTO",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG MANADO",
+      "jabatan_sasaran": "MANAGER OPERASI",
+      "lokasi_sasaran":"CABANG AMBON"
+    },
+    {
+      "nik": "10083930",
+      "nama": "ALFRED",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG HALIM",
+      "jabatan_sasaran": "MANAGER OPERASI",
+      "lokasi_sasaran":"CABANG AMBON"
     }
+   
   ],
 
   "seleksi_administratif": {
