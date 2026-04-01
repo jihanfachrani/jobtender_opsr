@@ -8,7 +8,7 @@ const data = await response.json()
 ========================= */
 
 document.getElementById("judulTender").innerText = data.informasi_tender.judul
-document.getElementById("periodeTender").innerText = data.informasi_tender.periode
+// document.getElementById("periodeTender").innerText = data.informasi_tender.periode
 
 /* =========================
    TAMPILKAN JABATAN
