@@ -56,6 +56,7 @@
       "lokasi_sasaran":"CABANG JATSC"
     },
     {
+<<<<<<< HEAD
       "nik": "10010159",
       "nama": "NOSIE PIETRAJAYA",
       "jabatan": "AIR TRAFFIC CONTROLLER",
@@ -166,6 +167,20 @@
       "lokasi": "CABANG HALIM",
       "jabatan_sasaran": "MANAGER OPERASI",
       "lokasi_sasaran":"CABANG AMBON"
+=======
+      "nik": "NOT NULL",
+      "nama": "NOT NULL",
+      "jabatan_sasaran": "MANAGER",
+      "level_sasaran": "14",
+      "lokasi":"NOT NULL"
+    },
+    {
+      "nik": "NOT NULL",
+      "nama": "NOT NULL",
+      "jabatan_sasaran": "MANAGER",
+      "level_sasaran": "14",
+      "lokasi":"NOT NULL"
+>>>>>>> bd0bfda3e037a74b434298126a37d50319b143ec
     }
    
   ],
