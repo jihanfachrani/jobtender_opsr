@@ -112,6 +112,22 @@
       "lokasi_sasaran":"CABANG AMBON"
     },
     {
+      "nik": "10011258",
+      "nama": "FAISAL NOOR WAHYU WIJAYANTO",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG MANADO",
+      "jabatan_sasaran": "MANAGER OPERASI",
+      "lokasi_sasaran":"CABANG AMBON"
+    },
+    {
+      "nik": "10083930",
+      "nama": "ALFRED",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG HALIM",
+      "jabatan_sasaran": "MANAGER OPERASI",
+      "lokasi_sasaran":"CABANG AMBON"
+    },
+    {
       "nik": "10011204",
       "nama": "MOCHAMAD ALI MUSTOFA",
       "jabatan": "AERONAUTICAL COMMUNICATION OFFICER",
@@ -158,22 +174,6 @@
       "lokasi": "KANTOR PUSAT",
       "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
       "lokasi_sasaran":"CABANG JATSC"
-    },
-    {
-      "nik": "10011258",
-      "nama": "FAISAL NOOR WAHYU WIJAYANTO",
-      "jabatan": "AIR TRAFFIC CONTROLLER",
-      "lokasi": "CABANG MANADO",
-      "jabatan_sasaran": "MANAGER OPERASI",
-      "lokasi_sasaran":"CABANG AMBON"
-    },
-    {
-      "nik": "10083930",
-      "nama": "ALFRED",
-      "jabatan": "AIR TRAFFIC CONTROLLER",
-      "lokasi": "CABANG HALIM",
-      "jabatan_sasaran": "MANAGER OPERASI",
-      "lokasi_sasaran":"CABANG AMBON"
     }
    
   ],
