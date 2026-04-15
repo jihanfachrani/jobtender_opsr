@@ -8,29 +8,32 @@ const data = await response.json()
 ========================= */
 
 document.getElementById("judulTender").innerText = data.informasi_tender.judul
-// document.getElementById("periodeTender").innerText = data.informasi_tender.periode
+document.getElementById("periodeTender").innerText = data.informasi_tender.periode
 
 /* =========================
    TAMPILKAN JABATAN
 ========================= */
 
+const jabatanduaTable = document.getElementById("jabatanduaTable")
+
+data.administrasi_awal.forEach((i, index) => {
+
+jabatanduaTable.innerHTML += `
+<tr>
+<td>${index + 1}</td> 
+<td>${i.nik}</td>
+<td>${i.nama}</td>
+<td>${i.jabatan}</td>
+<td>${i.lokasi}</td>
+<td>${i.jabatan_sasaran}</td>
+<td>${i.lokasi_sasaran}</td>
+</tr>
+`
+
+})
+
+
 const jabatanTable = document.getElementById("jabatanTable")
-
-// data.peserta.sort((a, b) => a.jabatan_sasaran.localeCompare(b.jabatan_sasaran))
-
-// data.jabatan.forEach((j, index) => {
-
-// jabatanTable.innerHTML += `
-// <tr>
-// <td>${index + 1}</td> 
-// <td>${j.nik}</td>
-// <td>${j.nama}</td>
-// <td>${j.jabatan}</td>
-// <td>${j.level_sasaran}</td>
-// </tr>
-// `
-
-// })
 
 data.peserta.forEach((j, index) => {
 
@@ -51,5 +54,3 @@ jabatanTable.innerHTML += `
 }
 
 loadTender()
-
-
