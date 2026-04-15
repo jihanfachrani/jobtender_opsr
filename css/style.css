@@ -71,6 +71,7 @@ h2{
 margin-top:40px;
 color:#003366;
 text-align:center;
+line-height: 40px;
 
 }
 
@@ -78,6 +79,12 @@ h3{
 
 margin-top:20px;
 color:#003366;
+
+}
+
+p{
+
+line-height:1.6;
 
 }
 
