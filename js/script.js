@@ -14,25 +14,6 @@ document.getElementById("periodeTender").innerText = data.informasi_tender.perio
    TAMPILKAN JABATAN
 ========================= */
 
-const jabatanduaTable = document.getElementById("jabatanduaTable")
-
-data.administrasi_awal.forEach((i, index) => {
-
-jabatanduaTable.innerHTML += `
-<tr>
-<td>${index + 1}</td> 
-<td>${i.nik}</td>
-<td>${i.nama}</td>
-<td>${i.jabatan}</td>
-<td>${i.lokasi}</td>
-<td>${i.jabatan_sasaran}</td>
-<td>${i.lokasi_sasaran}</td>
-</tr>
-`
-
-})
-
-
 const jabatanTable = document.getElementById("jabatanTable")
 
 data.peserta.forEach((j, index) => {
