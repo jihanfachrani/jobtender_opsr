@@ -1,7 +1,7 @@
 {
   "informasi_tender": {
-    "judul": " PESERTA LOLOS INTERNAL COMPETITIVE SELECTION - BIDANG OPERASI ",
-    "periode": "Maret - April 2026",
+    "judul": " PESERTA LOLOS SELEKSI ADMINITRASI - BIDANG OPERASI ",
+    "periode": "Maret 2026",
     "posisi_tender": "Operasi"
   },
 
@@ -40,24 +40,16 @@
 
   "peserta": [
     {
+      "nik": "10013022",
+      "nama": "RUDI WINARNO",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
       "nik": "10010235",
       "nama": "ANDRE BUDI SITUMORANG",
-      "jabatan": "AIR TRAFFIC CONTROLLER",
-      "lokasi": "CABANG JATSC",
-      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
-      "lokasi_sasaran":"CABANG JATSC"
-    },
-    {
-      "nik": "10011045",
-      "nama": "MOHAMMAD FAHRUDIN",
-      "jabatan": "AIR TRAFFIC CONTROLLER",
-      "lokasi": "CABANG JATSC",
-      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
-      "lokasi_sasaran":"CABANG JATSC"
-    },
-    {
-      "nik": "10010325",
-      "nama": "ANDRE POLADO",
       "jabatan": "AIR TRAFFIC CONTROLLER",
       "lokasi": "CABANG JATSC",
       "jabatan_sasaran": "MANAGER TWR-APP/TMA",
@@ -72,8 +64,24 @@
       "lokasi_sasaran":"CABANG JATSC"
     },
     {
+      "nik": "10011045",
+      "nama": "MOHAMMAD FAHRUDIN",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
       "nik": "10083757",
       "nama": "DODY HERLAMBANG",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER TWR-APP/TMA",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10010325",
+      "nama": "ANDRE POLADO",
       "jabatan": "AIR TRAFFIC CONTROLLER",
       "lokasi": "CABANG JATSC",
       "jabatan_sasaran": "MANAGER TWR-APP/TMA",
@@ -112,8 +120,32 @@
       "lokasi_sasaran":"CABANG AMBON"
     },
     {
+      "nik": "10083930",
+      "nama": "ALFRED",
+      "jabatan": "AIR TRAFFIC CONTROLLER",
+      "lokasi": "CABANG HALIM",
+      "jabatan_sasaran": "MANAGER OPERASI",
+      "lokasi_sasaran":"CABANG AMBON"
+    },
+    {
       "nik": "10011204",
       "nama": "MOCHAMAD ALI MUSTOFA",
+      "jabatan": "AERONAUTICAL COMMUNICATION OFFICER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10013840",
+      "nama": "FARID ISMAIL",
+      "jabatan": "AERONAUTICAL COMMUNICATION OFFICER",
+      "lokasi": "CABANG JATSC",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10010984",
+      "nama": "ANGGA TEGAR PERMANA",
       "jabatan": "AERONAUTICAL COMMUNICATION OFFICER",
       "lokasi": "CABANG JATSC",
       "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
@@ -127,26 +159,23 @@
       "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
       "lokasi_sasaran":"CABANG JATSC"
     },
-        {
-      "nik": "10013840",
-      "nama": "FARID ISMAIL",
-      "jabatan": "AERONAUTICAL COMMUNICATION OFFICER",
-      "lokasi": "CABANG JATSC",
+    {
+      "nik": "10012317",
+      "nama": "RIDHO ROBBYAN",
+      "jabatan": "KEPALA CABANG PEMBANTU",
+      "lokasi": "CABANG PEMBANTU RENGAT",
+      "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
+      "lokasi_sasaran":"CABANG JATSC"
+    },
+    {
+      "nik": "10011015",
+      "nama": "RHANDI BUDI PRANATA",
+      "jabatan": "CENTRALIZED FLIGHT PLAN OFFICER",
+      "lokasi": "KANTOR PUSAT",
       "jabatan_sasaran": "MANAGER KOMUNIKASI PENERBANGAN",
       "lokasi_sasaran":"CABANG JATSC"
     }
    
-  ],
-
-  "administrasi_awal": [
-    {
-      "nik": " 10012072",
-      "nama": "WELDA APOLINA RUMBIAK",
-      "jabatan": "AIR TRAFFIC CONTROLLER",
-      "lokasi": "CABANG WAMENA",
-      "jabatan_sasaran": "MANAGER OPERASI",
-      "lokasi_sasaran":"CABANG WAMENA"
-    }
   ],
 
   "seleksi_administratif": {
